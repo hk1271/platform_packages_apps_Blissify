@@ -1747,4 +1747,8 @@
     <!-- Lockscreen clock -->
     <string name="lockscreen_clock_pref_title">Lockscreen Clock Options</string>
     <string name="lockscreen_clock_pref_summary">change default clock style, date styles, clock and date size, owner info font and size</string>
+
+    <string name="bliss_music_volume_panel_text_title">Music Text</string>
+    <string name="bliss_music_volume_panel_text_summary">Show Music Text in left of VolumePanel</string>
+
 </resources>
